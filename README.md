@@ -4,7 +4,7 @@
     </div>
     <h1 align="center">ᕷ˖°♪.¸¸♬•*¨*•.♫  Cadence  ♫.•*¨*•♬¸¸.♪°˖ᕷ</h1>  
     <p  align="center">
-        A full-stack modern music player app using React, Zustand, Shadcn UI, Clerk, Express.js and MongoDB.        
+        A full-stack modern music player app using React, Zustand, Shadcn UI, Clerk, Express.js and MongoDB        
     </p>
 </div>
 
